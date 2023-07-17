@@ -8,14 +8,10 @@
 		"prettier": "prettier --write ."
 	},
 	"devDependencies": {
-		"bun-types": "latest"
+		"bun-types": "latest",
+		"prettier": "^3.0.0"
 	},
 	"peerDependencies": {
 		"typescript": "^5.0.0"
-	},
-	"dependencies": {
-		"nanostores": "^0.9.3",
-		"openapi-typescript": "*",
-		"prettier": "^3.0.0"
 	}
 }
