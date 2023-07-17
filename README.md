@@ -1,4 +1,6 @@
-# bun-template
+# openapi-fetch-bun
+
+Patch for [openapi-fetch](https://github.com/drwpow/openapi-typescript/tree/main/packages/openapi-fetch) Bun compatibility.
 
 To install dependencies:
 

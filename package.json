@@ -1,21 +1,9 @@
 {
-	"name": "bun-template",
-	"description": "TODO",
+	"name": "openapi-fetch-bun",
 	"module": "index.ts",
 	"type": "module",
 	"version": "0.1.0",
-	"author": {
-		"name": "redraskal",
-		"url": "https://github.com/redraskal",
-		"email": "ben@ryben.dev"
-	},
-	"license": "",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/redraskal/"
-	},
-	"bugs": "https://github.com/redraskal//issues",
-	"homepage": "https://github.com/redraskal/",
+	"license": "MIT",
 	"scripts": {
 		"prettier": "prettier --write ."
 	},
@@ -26,6 +14,8 @@
 		"typescript": "^5.0.0"
 	},
 	"dependencies": {
+		"nanostores": "^0.9.3",
+		"openapi-typescript": "*",
 		"prettier": "^3.0.0"
 	}
 }
