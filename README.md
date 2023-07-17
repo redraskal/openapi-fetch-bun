@@ -2,6 +2,8 @@
 
 Patch for [openapi-fetch](https://github.com/drwpow/openapi-typescript/tree/main/packages/openapi-fetch) Bun compatibility.
 
+Bun PR: https://github.com/oven-sh/bun/pull/1693
+
 To install dependencies:
 
 ```bash
